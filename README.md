@@ -1,16 +1,20 @@
-# flutter_miniapp_bmi
 
-A new Flutter project.
+# Mini App CalculateBMI
 
-## Getting Started
+Mini App 04 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/input.jpg" width="150" style="margin-right: 20px;"/> <img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/Error.jpg" width="150" style="margin-right: 25px;"/> <img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/output.jpg" width="150" style="margin-right: 25px;"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev)
+- Flutter
+- Dart
+- GetX
+## library
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run this command:
+
+```bash
+  flutter pub add get
+```
