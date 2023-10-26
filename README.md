@@ -3,7 +3,7 @@
 
 Mini App 04 
 
-<img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/input.jpg" width="150" style="margin-right: 20px;"/> <img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/Error.jpg" width="150" style="margin-right: 25px;"/> <img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/output.jpg" width="150" style="margin-right: 25px;"/>
+<img src="https://github.com/Teerapoom/Mini_app_CalculateBMI/blob/main/IMG_git/BMI_image.jpg" width="150" style="margin-right: 20px;"/> 
 
 
 ## 🛠 Skills
